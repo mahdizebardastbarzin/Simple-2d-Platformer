@@ -106,8 +106,7 @@ A minimal 2D platformer game built with Unity using only primitive shapes. No ex
   - نیازی به فایل‌های خارجی ندارد
 - All scripts are well-commented for easy modification  
   - تمام اسکریپت‌ها به خوبی کامنت‌گذاری شده‌اند تا به راحتی قابل تغییر باشند.
-  -
-  -
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please read our [Contributing Guidelines](https://github.com/mahdizebardastbarzin/mahdizebardastbarzin/blob/main/CONTRIBUTING.md) to get started.
@@ -115,3 +114,4 @@ Contributions are welcome! Please read our [Contributing Guidelines](https://git
 ## 🤝 مشارکت
 
 مشارکت‌های شما خوش‌آمد است! لطفاً [راهنمای مشارکت](https://github.com/mahdizebardastbarzin/mahdizebardastbarzin/blob/main/CONTRIBUTING.md) را مطالعه کنید.
+
